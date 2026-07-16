@@ -147,6 +147,11 @@ Permutation importance identified the following influential features:
 
 Feature importance indicates predictive contribution and does not demonstrate causation.
 
+## Try the deployed application here:
+
+[Open the Student Academic Outcome Predictor](https://student-outcome-predictorr.streamlit.app)
+
+
 ## Streamlit Application
 
 The application contains four pages:
